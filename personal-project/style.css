@@ -1,0 +1,50 @@
+#text1{
+    font-size: 25px;
+    color: blanchedalmond;
+}
+
+*{
+    background-color: lightcoral;
+}
+
+ #date1{
+    color: blanchedalmond;
+    border-radius: 30%;
+    height: 50px;
+    width: 150px;
+    border-width: 1rem;
+    background-color: grey;
+} 
+
+#pTag{
+    font-family:cursive;
+    font-size: 19px;
+    color:rgb(230, 226, 255);
+}
+
+#parent{
+    display: flex;gap: 60px;
+}
+
+#btn{
+    height: 50px;
+    width: 150px;
+    background-color: bisque;
+    color: black;
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 3px;
+    margin-top: -60px;
+    margin-bottom: 20px;
+}
+
+#p1{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: blanchedalmond;
+}
+
+#EmptyPtag{
+    font-size: 25px;
+    color: rgba(113, 209, 206, 0.989);
+}
